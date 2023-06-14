@@ -1,3 +1,6 @@
+## 0.0.6
+* Added Support for gpt-3.5-turbo-0613, gpt-3.5-turbo-16k & gpt-3.5-turbo-16k-0613 new models (June 13th)
+
 ## 0.0.5
 
 * Allow put force api key in each function execute
